@@ -1,17 +1,22 @@
 # EIT_Prep
 Prep plan for the Mechanical Engineering EIT
 
+### Table of Contents
+* 
+
 **FORK THIS TO MAKE YOUR OWN CHANGES**
 
+### Reference Handbook
 1. Obtain the Reference Handbook: Although it's reccomended, for prep the digital version will be used initially, unless it is determined that the physical is necessary sooner than the test date. (I'd probably buy it because maybe stuff can be bookmared?).
 - Current version 9.5 expires June 30, 2020 and the New version 10.0 is effective as of July 1, 2020.
 - To obtain the digial version log in or register/log in following this [link](https://account.ncees.org/login).
 
+### Study Area
 2. Areas of focus is the Mechanical Engineering EIT, specifically go thru pactice tests and what not.
 - Remember 110 questions 6 hours total
 - **DON'T SKIP ANYTHING!!**
 
-#### FE Mechanical Fields Check List/Schedule ####
+#### FE Mechanical Fields Check List/Schedule
 
 | ID | Topic | Ref | No. Sub-Topics | One Topic A Day | Two Topics A Day |
 | -- | ----- | --- | -------------- | --------------- | ---------------- |
