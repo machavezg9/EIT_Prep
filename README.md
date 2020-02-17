@@ -12,8 +12,28 @@ Prep plan for the Mechanical Engineering EIT
 - **DON'T SKIP ANYTHING!!**
 
 #### FE Mechanical Fields Check List/Schedule ####
+
+| ID | Topic | Ref | No. Sub-Topics | One Topic A Day | Two Topics A Day |
+| -- | ----- | --- | -------------- | --------------- | ---------------- |
+| 1 |	Mathematics | f |	6 | 2/22/2020 | 2/20/2020 |
+| 2 |	Probability and Statistics | b | 2 | 2/24/2020 | 2/21/2020 |
+| 3 |	Computational Tools | b| 2 | 2/26/2020 | 2/22/2020 |
+| 4 |	Ethics and Professional Practice | e | 5 | 3/2/2020 | 2/25/2020 |
+| 5 |	Engineering Economics | d | 4 | 3/6/2020 | 2/27/2020 |
+| 6 |	Electricity and Magnetism | e | 5 | 3/11/2020 | 3/1/2020 |
+| 7 | Statics | g | 7 | 3/18/2020 | 3/5/2020 |
+| 8 | Dynamics, Kinematics, and Vibrations | k | 11 | 3/29/2020 | 3/11/2020 |
+| 9 |	Mechanics of Materials | k | 11 | 4/9/2020 | 3/17/2020 |
+| 10 | Material Properties and Processing | o | 15 | 4/24/2020 | 3/25/2020 |
+| 11 | Fluid Mechanics | j | 10 | 5/4/2020 | 3/30/2020 |
+| 12 | Thermodynamics | k | 11 | 5/15/2020 | 4/5/2020 |
+| 13 | Heat Transfer | g | 7 | 5/22/2020 | 4/9/2020 |
+| 14 | Measurements, Instrumentation, and Controls | d | 4 | 5/26/2020 | 4/11/2020 |
+| 15 | Mechanical Design and Analysis | p | 16 | 6/11/2020 | 4/19/2020 |
+
 Source linked [here](https://ncees.org/engineering/fe/)
 - Two paces one sub-topic every other day, one sub-topic every day. This list shows deadlines for each topic, plan sub-topics accordingly.
+
 1. Mathematics (6–9 questions) ***(6 sub-topics)*** **DUE 02/22/2020**
       - [ ] A. Analytic geometry
       - [ ] B. Calculus
