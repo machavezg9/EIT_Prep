@@ -7,7 +7,7 @@ Prep plan for the Mechanical Engineering EIT
 * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#Reference-Handbook">Refence Handbook</a>
 * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#Study-Area">Study Area</a>
    * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#FE-Mechanical-Fields-Table">FE Mechanical Fields Table</a>
-   * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#FE-Mechanical-Fields-Schedule">FE Mechanical Fields Schedule</a>
+   * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#FE-Mechanical-Fields-Check-List">FE Mechanical Fields Check-List</a>
       * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#1-mathematics-69-questions">1. Mathematics (6–9 questions)</a>
       * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
       * 3 Computational Tools
@@ -60,7 +60,7 @@ Prep plan for the Mechanical Engineering EIT
 
 - Two paces one sub-topic every other day, one sub-topic every day. This list shows deadlines for each topic, plan sub-topics accordingly.
 
-#### FE Mechanical Fields Schedule
+#### FE Mechanical Fields Check-List
 
 ##### 1. Mathematics (6–9 questions)
    - [ ] A. Analytic geometry
