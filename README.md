@@ -2,6 +2,8 @@
 
 **FORK THIS TO MAKE YOUR OWN CHANGES**
 
+<img src="https://raw.githubusercontent.com/machavezg9/EIT_Prep/master/ReferenceFiles/p_guy_up.gif">
+
 Prep plan for the Mechanical Engineering EIT
 
 ### Table of Contents
