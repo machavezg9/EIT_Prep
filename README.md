@@ -64,33 +64,33 @@ Prep plan for the Mechanical Engineering EIT
 #### FE Mechanical Fields Check-List
 
 ##### 1. Mathematics (6–9 questions)
-   - [ ] A. Analytic geometry
-   - [ ] B. Calculus
-   - [ ] C. Linear algebra
-   - [ ] D. Vector analysis
-   - [ ] E. Differential equations
-   - [ ] F. Numerical methods
+   - [ ] A. Analytic geometry 4-1
+   - [ ] B. Calculus 7-1
+   - [ ] C. Linear algebra 5-1
+   - [ ] D. Vector analysis 5-5
+   - [ ] E. Differential equations 8-1
+   - [ ] F. Numerical methods 9-1
       
 ##### 2. Probability and Statistics (4–6 questions)
-   - [ ] A. Probability distributions
-   - [ ] B. Regression and curve fitting
+   - [ ] A. Probability distributions 6-4
+   - [ ] B. Regression and curve fitting 6-13
       
 ##### 3. Computational Tools (3–5 questions)
-   - [ ] A. Spreadsheets
-   - [ ] B. Flow charts
+   - [ ] A. Spreadsheets 48-3
+   - [ ] B. Flow charts 48-1
       
 ##### 4. Ethics and Professional Practice (3–5 questions)
-   - [ ] A. Codes of ethics
-   - [ ] B. Agreements and contracts
+   - [ ] A. Codes of ethics 54-1
+   - [ ] B. Agreements and contracts 
    - [ ] C. Ethical and legal considerations
    - [ ] D. Professional liability
    - [ ] E. Public health, safety, and welfare
       
 ##### 5. Engineering Economics (3–5 questions)
-   - [ ] A. Time value of money
-   - [ ] B. Cost, including incremental, average, sunk, and estimating
-   - [ ] C. Economic analyses
-   - [ ] D. Depreciation
+   - [ ] A. Time value of money 51-2
+   - [ ] B. Cost, including incremental, average, sunk, and estimating 
+   - [ ] C. Economic analyses 
+   - [ ] D. Depreciation 52-1
       
 ##### 6. Electricity and Magnetism (3–5 questions)
    - [ ] A. Charge, current, voltage, power, and energy
