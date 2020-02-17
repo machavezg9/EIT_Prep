@@ -1,4 +1,7 @@
-## EIT_Prep
+## EIT Prep
+
+-------
+
 **FORK THIS TO MAKE YOUR OWN CHANGES**
 
 Prep plan for the Mechanical Engineering EIT
