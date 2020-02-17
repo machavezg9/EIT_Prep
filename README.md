@@ -5,4 +5,4 @@ Prep plan for the Mechanical Engineering EIT
 - Current version 9.5 expires June 30, 2020 and the New version 10.0 is effective as of July 1, 2020.
 - To obtaine the digial version log in or register/log in following this [link](https://account.ncees.org/login).
 
-Reference Source: (Six Steps for Successful NCEEES FE Exam Prep)[https://ppi2pass.com/fe-exam/resources/make-your-fe-exam-review-successful]
+Reference Source: [Six Steps for Successful NCEEES FE Exam Prep](https://ppi2pass.com/fe-exam/resources/make-your-fe-exam-review-successful).
