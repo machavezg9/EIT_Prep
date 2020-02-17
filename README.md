@@ -12,17 +12,17 @@ Prep plan for the Mechanical Engineering EIT
       * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
       * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#3-computational-tools-35-questions">3. Computational Tools (3–5 questions)</a>
       * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#4-ethics-and-professional-practice-35-questions">4. Ethics and Professional Practice (3–5 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a> 
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
-      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#5-engineering-economics-35-questions">5. Engineering Economics (3–5 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#6-electricity-and-magnetism-35-questions">6. Electricity and Magnetism (3–5 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#7-statics-812-questions">7. Statics (8–12 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#8-dynamics-kinematics-and-vibrations-914-questions">8. Dynamics, Kinematics, and Vibrations (9–14 questions)</a> 
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#9-mechanics-of-materials-812-questions">9. Mechanics of Materials (8–12 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#10-material-properties-and-processing-812-questions">10. Material Properties and Processing (8–12 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#11-fluid-mechanics-914-questions">11. Fluid Mechanics (9–14 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#12-thermodynamics-1320-questions">12. Thermodynamics (13–20 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#13-heat-transfer-914-questions">13. Heat Transfer (9–14 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#14-measurements-instrumentation-and-controls-58-questions">14. Measurements, Instrumentation, and Controls (5–8 questions)</a>
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#15-mechanical-design-and-analysis-914-questions">15. Mechanical Design and Analysis (9–14 questions)</a>
 
 * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#Sources">Sources</a>
 
