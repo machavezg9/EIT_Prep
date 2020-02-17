@@ -2,7 +2,7 @@
 Prep plan for the Mechanical Engineering EIT
 
 ### Table of Contents
-* 
+* <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#Reference-Handbook">Refence Handbook</a>
 
 **FORK THIS TO MAKE YOUR OWN CHANGES**
 
