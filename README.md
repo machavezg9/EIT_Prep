@@ -9,7 +9,7 @@ Prep plan for the Mechanical Engineering EIT
    * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#FE-Mechanical-Fields-Table">FE Mechanical Fields Table</a>
    * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#FE-Mechanical-Fields-Schedule">FE Mechanical Fields Schedule</a>
       * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#1-mathematics-69-questions">1. Mathematics (6–9 questions)</a>
-      * 2 Probability and Statistics
+      * <a href="https://github.com/machavezg9/EIT_Prep/blob/master/README.md#2-probability-and-statistics-46-questions">2. Probability and Statistics (4–6 questions)</a>
       * 3 Computational Tools
       * 4 Ethics and Professional Practice
       * 5 Engineering Economics
